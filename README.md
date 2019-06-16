@@ -1,4 +1,4 @@
-# heartbeat
+# Heartbeat
 Local Network Continuous Deployment for Create-React-App Applications
 
 ### Requirements
